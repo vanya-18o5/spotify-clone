@@ -5,7 +5,7 @@ with HTML and CSS while learning web development. This is a practice project
 and is not affiliated with Spotify. Images and branding belong to their owners.
 
 ## Live Demo
-https://github.com/vanya-18o5/spotify-clone.git
+https://vanya-18o5.github.io/spotify-clone/
 
 ## Built With
 HTML, CSS, Font Awesome icons, Google Fonts (Montserrat)
