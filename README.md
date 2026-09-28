@@ -25,5 +25,7 @@ HTML, CSS, Font Awesome icons, Google Fonts (Montserrat)
 This is a static layout with no JavaScript, so the buttons and sliders are
 visual only.
 
-## Screenshot
+## Screenshots
 ![Home page](spotify_clone.jpeg)
+
+![Second view](ss2.jpeg)
